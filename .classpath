@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="libs"/>
+	<classpathentry kind="lib" path="libs/jl-1.0.1.jar"/>
+	<classpathentry kind="lib" path="libs/mp3spi-1.9.5.jar"/>
+	<classpathentry kind="lib" path="libs/tritonus_share.jar"/>
+	<classpathentry kind="lib" path="res"/>
+	<classpathentry kind="lib" path="libs/jinput.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="GameEngineScratch/natives_jinput"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="libs/jutils-1.0.0.jar"/>
+	<classpathentry kind="lib" path="libs/jinput-test.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
